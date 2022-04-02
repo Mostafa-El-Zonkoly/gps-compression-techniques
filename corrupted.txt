@@ -1,0 +1,3 @@
+input/geolife/144/Trajectory/20090706033310
+input/geolife/180/Trajectory/20090528211734
+input/geolife/168/Trajectory/20090930071934

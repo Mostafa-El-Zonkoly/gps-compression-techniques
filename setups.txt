@@ -1,0 +1,10 @@
+pip3 install numpy
+pip3 install matplotlib
+pip3 install rdp
+pip3 install similaritymeasures
+pip3 install -U scikit-fuzzy
+pip3 install xlwt
+pip3 install pandas
+pip3 install lmfit
+pip3 install sklearn
+
